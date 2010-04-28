@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'WebStack' target in the 'WebStack' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
